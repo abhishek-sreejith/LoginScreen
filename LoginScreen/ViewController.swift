@@ -8,7 +8,6 @@
 import UIKit
 
 class ViewController: UIViewController {
-    //tr7tyguhohuiutik
     override func viewDidLoad() {
         super.viewDidLoad()
         
